@@ -1,0 +1,6 @@
+
+Exemplos de técnicas citadas no texto:
+ Table lens URL   https://www.youtube.com/watch?v=ZDY9YCYv7z8&feature=iv&src_vid=qWqTrRAC52U&annotation_id=video%3A5e06750a-c559-4b45-8a9a-bb71cc6030df
+ Treemaps (site original) URL	http://www.cs.umd.edu/hcil/treemap/
+ Space tree (site original) URL	http://www.cs.umd.edu/hcil/spacetree/
+ Video sobre o hyperbolic browser URL	https://www.youtube.com/watch?v=8bhq08BQLDs&feature=iv&src_vid=pwpze3RF55o&annotation_id=video%3Aa80e52fe-f54a-4ff4-8a47-5772886b9276

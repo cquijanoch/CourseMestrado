@@ -1,0 +1,35 @@
+Livros:
+http://www.cs.ubc.ca/~tmm/vadbook/
+http://www.idvbook.com/the-book/ 
+http://www.cs.rug.nl/svcg/DataVisualizationBook/DataVisualizationBook
+https://onlinelibrary.wiley.com/doi/book/10.1002/9781118722213
+
+Fontes Bibliograficos:
+
+https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=6168453&punumber=2945
+https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000796
+https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000371
+https://onlinelibrary.wiley.com/journal/14678659
+http://journals.sagepub.com/home/ivi
+http://www.periodicos.capes.gov.br
+http://www.interaction-design.org/
+
+Sites com datasets:
+
+http://www.datapoa.com.br/
+http://dados.rs.gov.br/ 
+http://www.idvbook.com/teaching-aid/data-sets/ 
+http://openflights.org/data.html
+
+
+Miscelânea:
+
+https://medium.com/dailyjs/the-trouble-with-d3-4a84f7de011f
+https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualization-library-67ba549e8520
+https://medium.com/@Elijah_Meeks/interactive-applications-with-react-d3-f76f7b3ebc71
+
+
+Warming Up
+
+https://www.computer.org/web/computingnow/archive/advance-information-visualization-july-2017-introduction?lf1=5611663987e888116114317f64497132
+https://www.bbc.com/news/science-environment-41604760

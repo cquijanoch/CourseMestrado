@@ -1,0 +1,11 @@
+
+ Treemaps URL	 http://www.cs.umd.edu/hcil/treemap/
+ Treemaps (exemplo na D3) URL	https://bl.ocks.org/mbostock/4063582
+ Coordenadas paralelas URL	https://eagereyes.org/techniques/parallel-coordinates
+ Parallel Sets URL	http://www.jasondavies.com/parallel-sets/
+Versão original de Parallel Sets	https://eagereyes.org/parallel-sets
+
+
+
+
+http://philogb.github.io/jit/static/v20/Jit/Examples/Spacetree/example1.html

@@ -1,0 +1,4 @@
+
+ Viz Palette - escolha de cores URL	http://projects.susielu.com/viz-palette
+ Color Brewer URL	http://colorbrewer2.org/ 		
+ Podcast sobre cores URL	http://datastori.es/episode-7-color-feat-gregor-aisch/
